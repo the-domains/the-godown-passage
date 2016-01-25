@@ -1,0 +1,28 @@
+name: The Godown Passage
+favicon: null
+layout_spectrum: 0.048586474964395165
+typography_spectrum: 0.8402025254908949
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8913343686144799
+  lightness: 0.45078797568567097
+  saturation: 0.2627848780248314
+  rhythmicContrast: 0.751264377264306
+purpose: []
